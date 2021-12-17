@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 任何事 <em>知无不言，言无不尽</em>
 - 📫 How to reach me:
   - [Github](https://github.com/zhang13pro)
-  - [Blog](https://github.com/zhang13pro)
+  - [Blog](https://13pro.vercel.app)
   - ✍️ zhang13pro@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am looking for <mark>new opportunities</mark>
