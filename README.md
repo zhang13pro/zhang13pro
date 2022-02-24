@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am looking for <mark>new opportunities</mark>
 
  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=diy4869&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diy4869&layout=compact&hide=css,html&hide_border=true&card_width=250">
-</div>
 
  
 <p align="right">
